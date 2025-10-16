@@ -1,0 +1,1 @@
+Este es un proyecto que he realizado sobre un juego en el primer año de mi grado superior de DAM. Este proyecto esta hecho entero por Python y su libreria Pygame. Es muy importante haber descargado e instalado dicha libreria para el correcto funcionamiento del juego.
