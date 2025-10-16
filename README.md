@@ -58,6 +58,6 @@
 <p>
   <strong>Asier Orzaez Rodriguez</strong><br>
   Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
-  📧 <a href="asierorzaezr@gmail.com">Mi email</a><br>
-  🌐 <a href="https://github.com/Frainx-06">GitHub</a> | 
+  📧 <a>Mi email: <Strong>Asierorzaezr@gmail.com</Strong></a><br>
+  🌐 <a href="https://github.com/Frainx-06">GitHub</a> 
 </p>
