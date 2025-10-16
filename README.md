@@ -21,24 +21,21 @@
 
 <h2>Requisitos previos</h2>
 <p>Para ejecutar el proyecto correctamente, es necesario tener instalado <strong>Python</strong> y la librería <strong>Pygame</strong>.</p>
-
 <pre><code>pip install pygame</code></pre>
-
 <hr>
-
 <h2>Ejecución del proyecto</h2>
 <ol>
   <li>Clonar el repositorio:
-    <pre><code>git clone https://github.com/Frainx-06/Videojuego_Lariux
+    <pre><code>git clone https://github.com/Frainx-06/Videojuego_Lariux</code></pre>
   </li>
-  <li>Acceder al directorio del proyecto:
-    <pre><code>cd "tu-repositorio"</code></pre>
+  <li>Acceder al directorio:
+    <pre><code>cd Videojuego_Lariux</code></pre>
   </li>
   <li>Ejecutar el juego:
     <pre><code>python main.py</code></pre>
   </li>
 </ol>
-<hr>
+
 <h2>Tecnologías utilizadas</h2>
 <ul>
   <li><strong>Lenguaje:</strong> Python</li>
